@@ -1,5 +1,8 @@
 # RocketHelp
 Projeto desenvolvido durante o Ignite Lab React Native, evento proporcionado pela Rocketseat.
+
+Tecnologias utilizadas: React Native (Expo Bare Workflow), NativeBase e Firebase.
+
 ![login_screen](https://user-images.githubusercontent.com/65215542/180703621-54fbdb45-6a5e-4a03-882b-4134ed35a38f.png)
 ![orders_opened_screen](https://user-images.githubusercontent.com/65215542/180703647-e07c5e8c-a4aa-45fc-b75f-df1dd88b8987.png)
 ![orders_closed_screen](https://user-images.githubusercontent.com/65215542/180703658-467c0250-4935-470a-a418-9fcf4557abcf.png)
