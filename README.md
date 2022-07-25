@@ -8,4 +8,4 @@ Tecnologias utilizadas: React Native (Expo Bare Workflow), NativeBase e Firebase
 ![orders_closed_screen](https://user-images.githubusercontent.com/65215542/180703658-467c0250-4935-470a-a418-9fcf4557abcf.png)
 ![solution_order_screen](https://user-images.githubusercontent.com/65215542/180703665-359cfaf1-3050-457c-87f2-b202e18e1043.png)
 ![solutioned_order_screen](https://user-images.githubusercontent.com/65215542/180703668-ad9e88cf-62c5-4acf-ba50-9133ecb34916.png)
-![new_order_screen](https://user-images.githubusercontent.com/65215542/180703673-c1d10027-9880-4bc1-833b-51ef0f03012b.png)
+![new_order_screen](https://user-images.githubusercontent.com/65215542/180703918-63d272a8-f921-4344-8422-73d4f20ef58d.png)
